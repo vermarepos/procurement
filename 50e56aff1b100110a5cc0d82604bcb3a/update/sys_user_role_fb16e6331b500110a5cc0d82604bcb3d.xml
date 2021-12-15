@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_724903_procureme.procurement super user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_724903_procureme.procurement super user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-15 09:41:47</sys_created_on>
+        <sys_id>fb16e6331b500110a5cc0d82604bcb3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_724903_procureme.procurement super user</sys_name>
+        <sys_package display_value="Procurement" source="x_724903_procureme">50e56aff1b100110a5cc0d82604bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Procurement">50e56aff1b100110a5cc0d82604bcb3a</sys_scope>
+        <sys_update_name>sys_user_role_fb16e6331b500110a5cc0d82604bcb3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 09:41:47</sys_updated_on>
+    </sys_user_role>
+</record_update>

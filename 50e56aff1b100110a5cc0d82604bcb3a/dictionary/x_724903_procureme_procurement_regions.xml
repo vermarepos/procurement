@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Procurement Regions" max_length="40" name="x_724903_procureme_procurement_regions" sizeclass="0" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Region Name" max_length="255" name="region_name" type="string_full_utf8"/>
+    </element>
+</database>
